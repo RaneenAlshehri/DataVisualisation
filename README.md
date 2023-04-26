@@ -1,4 +1,4 @@
-# DataVisualisation
+# DataVisualisation-Tableau
 Data visualization for the OZONE dataset
 
 ## Dataset
