@@ -1,5 +1,5 @@
-# DataVisualisation-Tableau
-Data visualization for the OZONE dataset
+# DataVisualisation
+Data visualization for the OZONE dataset (Tableau)
 
 ## Dataset
 During the period between 2020 and 2021, data was collected from various cities and states across America, relating to air quality rates, 
